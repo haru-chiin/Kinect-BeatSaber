@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9b3a5706ff53e747b828340a3700a2c, type: 3}
+  m_Name: 1
+  m_EditorClassIdentifier: 
+  beats:
+  - time: 1
+    type: red
+    spawnSide: left
+    direction: left
+  - time: 1
+    type: blue
+    spawnSide: right
+    direction: right
+  - time: 2
+    type: red
+    spawnSide: left
+    direction: up
+  - time: 3
+    type: blue
+    spawnSide: right
+    direction: down
+  - time: 4
+    type: red
+    spawnSide: left
+    direction: left
+  - time: 5
+    type: red
+    spawnSide: left
+    direction: up
+  - time: 6
+    type: red
+    spawnSide: left
+    direction: down
+  - time: 7
+    type: red
+    spawnSide: left
+    direction: right
+  - time: 8
+    type: red
+    spawnSide: left
+    direction: up
+  - time: 9
+    type: red
+    spawnSide: left
+    direction: up
+  - time: 10
+    type: red
+    spawnSide: left
+    direction: up
+  - time: 11
+    type: red
+    spawnSide: left
+    direction: up
+  - time: 12
+    type: red
+    spawnSide: left
+    direction: up
+  - time: 13
+    type: red
+    spawnSide: left
+    direction: up
+  - time: 14
+    type: red
+    spawnSide: left
+    direction: up
+  - time: 15
+    type: red
+    spawnSide: left
+    direction: up
+  - time: 16
+    type: red
+    spawnSide: left
+    direction: right
+  - time: 17
+    type: red
+    spawnSide: left
+    direction: right
+  - time: 18
+    type: red
+    spawnSide: left
+    direction: right
+  - time: 19
+    type: red
+    spawnSide: left
+    direction: right
+  - time: 20
+    type: red
+    spawnSide: left
+    direction: right
+  - time: 21
+    type: red
+    spawnSide: left
+    direction: right
+  - time: 22
+    type: red
+    spawnSide: left
+    direction: right
+  - time: 23
+    type: red
+    spawnSide: left
+    direction: right
+  - time: 24
+    type: red
+    spawnSide: left
+    direction: right
+  - time: 25
+    type: red
+    spawnSide: left
+    direction: right
+  - time: 26
+    type: red
+    spawnSide: left
+    direction: right
+  - time: 27
+    type: red
+    spawnSide: left
+    direction: right
+  - time: 28
+    type: red
+    spawnSide: left
+    direction: right
+  - time: 29
+    type: red
+    spawnSide: left
+    direction: right
+  - time: 30
+    type: red
+    spawnSide: left
+    direction: right

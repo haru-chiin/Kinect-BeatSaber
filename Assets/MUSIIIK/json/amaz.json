@@ -1,0 +1,2668 @@
+{
+    "beats": [
+        {
+            "time": 0.163,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "left"
+        },
+        {
+            "time": 0.488,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 0.789,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 1.115,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "left"
+        },
+        {
+            "time": 1.393,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 1.695,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 1.997,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 2.322,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 2.624,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 2.902,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 3.529,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 3.808,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 4.156,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 4.435,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 4.737,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 5.039,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "left"
+        },
+        {
+            "time": 5.341,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 5.642,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 5.944,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 6.246,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 6.548,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 6.85,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 7.152,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 7.477,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 7.779,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 8.081,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 8.359,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 8.684,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 8.986,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "down"
+        },
+        {
+            "time": 9.288,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 9.59,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "down"
+        },
+        {
+            "time": 9.892,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 10.17,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 10.472,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "down"
+        },
+        {
+            "time": 10.797,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "down"
+        },
+        {
+            "time": 11.099,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "left"
+        },
+        {
+            "time": 11.401,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 11.703,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "down"
+        },
+        {
+            "time": 12.028,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 12.307,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 12.608,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 12.934,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 13.235,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 13.514,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "left"
+        },
+        {
+            "time": 13.816,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 14.141,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 14.443,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 14.721,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 15.047,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 15.325,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 15.65,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "left"
+        },
+        {
+            "time": 15.952,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 16.254,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "left"
+        },
+        {
+            "time": 16.556,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 16.834,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 17.16,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "left"
+        },
+        {
+            "time": 17.763,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "left"
+        },
+        {
+            "time": 18.065,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 18.367,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 18.692,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 18.971,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 19.528,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 19.876,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 20.201,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "down"
+        },
+        {
+            "time": 20.503,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 21.107,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "left"
+        },
+        {
+            "time": 21.409,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 22.291,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "left"
+        },
+        {
+            "time": 22.616,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 22.941,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 23.824,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 24.126,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 24.776,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "down"
+        },
+        {
+            "time": 25.054,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 25.356,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 25.96,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 26.239,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 27.191,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 27.469,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 27.771,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 28.305,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 28.677,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 28.979,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 29.605,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 30.047,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 30.813,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 31.417,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 32.044,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 32.624,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "down"
+        },
+        {
+            "time": 32.903,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 33.112,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "down"
+        },
+        {
+            "time": 33.53,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 33.831,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 34.04,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 34.458,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 34.807,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 35.852,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 36.27,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 37.477,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 37.965,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 38.383,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "down"
+        },
+        {
+            "time": 38.684,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 38.94,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 39.915,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "left"
+        },
+        {
+            "time": 41.123,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 41.517,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "left"
+        },
+        {
+            "time": 42.075,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 42.307,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "down"
+        },
+        {
+            "time": 42.609,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "down"
+        },
+        {
+            "time": 43.119,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 43.537,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 44.118,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 44.443,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "left"
+        },
+        {
+            "time": 44.745,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "down"
+        },
+        {
+            "time": 45.023,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 45.232,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 45.65,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 46.486,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "down"
+        },
+        {
+            "time": 46.858,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 47.183,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 47.462,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 48.367,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 48.576,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 49.598,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "down"
+        },
+        {
+            "time": 50.202,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 50.503,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 50.805,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 51.363,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 52.059,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 52.918,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 53.243,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 53.801,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 54.195,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 54.428,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "down"
+        },
+        {
+            "time": 55.403,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 55.635,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 55.844,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 56.564,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 56.866,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 57.771,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 58.282,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 58.7,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 59.048,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 59.304,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 60.186,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 60.511,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "left"
+        },
+        {
+            "time": 61.417,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "down"
+        },
+        {
+            "time": 61.719,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "left"
+        },
+        {
+            "time": 62.206,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "down"
+        },
+        {
+            "time": 62.624,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 62.926,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 63.832,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 64.134,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 64.621,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 64.993,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 65.364,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 66.27,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "left"
+        },
+        {
+            "time": 66.572,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 67.477,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 68.406,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 68.615,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 68.986,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 69.892,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 70.194,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 71.169,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "left"
+        },
+        {
+            "time": 71.425,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 72.307,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "down"
+        },
+        {
+            "time": 72.562,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "left"
+        },
+        {
+            "time": 73.607,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 73.839,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 74.118,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 75.047,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "left"
+        },
+        {
+            "time": 75.535,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 75.952,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "left"
+        },
+        {
+            "time": 76.254,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 77.485,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 78.112,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 78.367,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 78.692,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 79.296,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 79.598,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 80.109,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 80.434,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 80.852,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 81.107,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 82.315,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 82.524,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 82.895,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 83.22,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 83.522,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 84.149,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 84.428,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 84.753,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 85.287,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 85.658,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 85.96,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 86.564,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "down"
+        },
+        {
+            "time": 86.796,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 87.168,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 87.377,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "down"
+        },
+        {
+            "time": 88.166,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 88.375,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 89.583,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 89.884,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 90.558,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 90.813,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 91.719,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 92.021,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 92.973,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 93.228,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 93.6,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 94.436,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 94.737,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "left"
+        },
+        {
+            "time": 95.341,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 95.643,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "down"
+        },
+        {
+            "time": 96.363,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 96.572,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 96.874,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 97.152,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 97.779,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 98.244,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 98.569,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 98.987,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 99.289,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "left"
+        },
+        {
+            "time": 99.683,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 99.892,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 100.194,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "down"
+        },
+        {
+            "time": 100.496,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "left"
+        },
+        {
+            "time": 100.798,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 101.727,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "left"
+        },
+        {
+            "time": 102.307,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 102.679,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 102.934,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "left"
+        },
+        {
+            "time": 103.213,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 104.768,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 105.349,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 105.651,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 106.556,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 106.765,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 107.787,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 108.275,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 108.693,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 108.994,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 109.552,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 109.9,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 110.481,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 110.69,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "left"
+        },
+        {
+            "time": 111.433,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 111.99,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 112.268,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "left"
+        },
+        {
+            "time": 112.594,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 112.803,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 113.22,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 113.592,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 113.801,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 114.753,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 115.055,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 115.659,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 116.262,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 116.889,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "down"
+        },
+        {
+            "time": 117.238,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 117.493,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 118.7,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 119.583,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 119.908,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "down"
+        },
+        {
+            "time": 120.813,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 121.115,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "down"
+        },
+        {
+            "time": 121.905,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 122.3,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "left"
+        },
+        {
+            "time": 122.508,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 122.81,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 123.298,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 123.53,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "left"
+        },
+        {
+            "time": 124.436,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 124.761,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 125.968,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 126.572,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 126.92,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 127.176,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "down"
+        },
+        {
+            "time": 128.081,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 128.383,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 129.358,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 129.591,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "left"
+        },
+        {
+            "time": 130.496,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 130.821,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 131.773,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 132.005,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 132.981,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 133.236,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 134.142,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "left"
+        },
+        {
+            "time": 134.444,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 136.278,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 136.557,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 137.183,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 137.485,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 137.787,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 138.089,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 138.391,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 138.693,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 139.041,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 139.297,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 139.598,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 139.877,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 140.504,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 140.806,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "left"
+        },
+        {
+            "time": 141.108,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 141.479,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 141.711,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 142.013,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 142.315,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 143.221,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 143.523,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 143.894,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 144.149,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 144.753,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 145.055,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 145.357,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 145.636,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 145.961,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 146.309,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 147.168,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 147.772,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "left"
+        },
+        {
+            "time": 148.097,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 149.815,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 150.372,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 151.742,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 152.021,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 153.461,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 154.088,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 154.738,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 155.365,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 155.643,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 157.78,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 158.29,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 158.639,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 158.987,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 159.591,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 160.194,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 162.958,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 164.142,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 164.444,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 165.047,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 165.28,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "left"
+        },
+        {
+            "time": 165.651,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 166.255,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "left"
+        },
+        {
+            "time": 167.486,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 167.764,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "down"
+        },
+        {
+            "time": 168.02,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "down"
+        },
+        {
+            "time": 168.345,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "left"
+        },
+        {
+            "time": 168.554,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "left"
+        },
+        {
+            "time": 169.018,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 169.297,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 169.9,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 170.504,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 171.131,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 171.712,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 171.967,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 172.339,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "left"
+        },
+        {
+            "time": 172.919,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "down"
+        },
+        {
+            "time": 173.128,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 173.546,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 173.987,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 174.8,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "down"
+        },
+        {
+            "time": 175.682,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "left"
+        },
+        {
+            "time": 176.263,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 176.89,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 177.493,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "down"
+        },
+        {
+            "time": 177.772,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 178.097,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 178.724,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 179.304,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 180.512,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 181.0,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "down"
+        },
+        {
+            "time": 181.464,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 181.719,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 182.625,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 182.95,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 183.414,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 184.157,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 184.761,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 185.365,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 186.758,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 187.037,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "down"
+        },
+        {
+            "time": 187.548,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 187.803,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 188.267,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 189.173,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 189.452,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 189.962,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 190.195,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 190.682,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 191.147,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 191.425,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 192.633,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 193.12,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 193.538,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 194.467,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 195.071,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 195.675,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 196.023,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 196.278,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "left"
+        },
+        {
+            "time": 196.58,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 196.882,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 197.486,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 198.113,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 198.6,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "left"
+        },
+        {
+            "time": 198.879,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 199.599,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "left"
+        },
+        {
+            "time": 199.901,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 200.388,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "down"
+        },
+        {
+            "time": 200.69,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 201.108,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 202.014,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "left"
+        },
+        {
+            "time": 202.339,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 202.803,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 203.546,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 204.15,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 204.754,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 206.147,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 206.425,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 207.168,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 207.656,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 209.003,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 209.351,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 209.607,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        },
+        {
+            "time": 209.932,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 210.559,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "down"
+        },
+        {
+            "time": 210.814,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 211.441,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "left"
+        },
+        {
+            "time": 212.021,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 212.509,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "down"
+        },
+        {
+            "time": 212.927,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 213.136,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 214.831,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 216.503,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "left"
+        },
+        {
+            "time": 217.803,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "up"
+        },
+        {
+            "time": 218.407,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 218.778,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "right"
+        },
+        {
+            "time": 219.011,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "down"
+        },
+        {
+            "time": 222.586,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "down"
+        },
+        {
+            "time": 223.283,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "left"
+        },
+        {
+            "time": 225.071,
+            "type": "blue",
+            "spawnSide": "right",
+            "direction": "left"
+        },
+        {
+            "time": 225.721,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "up"
+        },
+        {
+            "time": 230.528,
+            "type": "red",
+            "spawnSide": "left",
+            "direction": "right"
+        }
+    ]
+}
